@@ -2,8 +2,8 @@
 Xenonium is a simple, general-purpose engine with a set of libraries for its different subsystems, all developed from scratch as part of an undergraduate research project at IFTM.
 
 ## Material Produced
-This is where all the material produced during the engine development will go.
-[Research Log](https://docs.google.com/document/d/1W86_8az8bNBjevd9WP5Izq0IYhdnPpIURO6nR-AEAZE/edit?usp=sharing)
+This is where all the material produced during the engine development will go:
+* [Research Log](https://docs.google.com/document/d/1W86_8az8bNBjevd9WP5Izq0IYhdnPpIURO6nR-AEAZE/edit?usp=sharing)
 
 ## Planning Phase
 From 09/01/2026 to 10/31/2026, Xenonium will be going through its planning phase: Bibliographic material will be read and the foundational structure of the engine will be studied and planned.
@@ -14,17 +14,17 @@ Week "burned" to prepare for the project (burocratic work) and plan following we
 ### Week 1 (09/06) - Game Engine Fundamentals
 Objective: Understand foundational knowledge about game engine structures. <br>
 Material to read:
-- [ ] The initial chapters from **"Game Engine Architecture" by Jason Gregory**.
-- [ ] **"Game Programming Patterns" by Robert Nystrom**.
+- [x] The initial chapters from **"Game Engine Architecture" by Jason Gregory**.
+- [x] **"Game Programming Patterns" by Robert Nystrom**.
 
 Actions:
-- [ ] Create part of the [Research Log](https://docs.google.com/document/d/1W86_8az8bNBjevd9WP5Izq0IYhdnPpIURO6nR-AEAZE/edit?usp=sharing).
-- [ ] Create this GitHub repository and initialize the folder structure.
+- [x] Create part of the [Research Log](https://docs.google.com/document/d/1W86_8az8bNBjevd9WP5Izq0IYhdnPpIURO6nR-AEAZE/edit?usp=sharing).
+- [x] Create this GitHub repository and initialize the folder structure.
 
 ### Week 2 (09/13) - Modern C++ & Cupid Architecture
 Objective: Internalize C++ tools to be utilized prior to developing any subsystem. <br>
 Material to read:
-- [ ] Relevant chapters from **"Effective Modern C++" by Scott Meyers**.
+- [x] Relevant chapters from **"Effective Modern C++" by Scott Meyers**.
 
 Actions:
 - [ ] Study ``std::pmr`` (Polymorphic Memory Resources), as identified during the literature review.
