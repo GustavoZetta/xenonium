@@ -91,7 +91,7 @@ int main() {
 
     bench.ClearMean();
 
-    for (int i = 0; i < 64; ++i) {    
+    for (int i = 0; i < 1024; ++i) {    
         bench.Start();
         numbers.push_back(i * 10);
         bench.End();
